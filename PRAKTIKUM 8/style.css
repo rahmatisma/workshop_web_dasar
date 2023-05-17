@@ -1,0 +1,30 @@
+p{
+    text-align: left;
+}
+
+.col-12
+{
+    background-color:gray;
+}
+
+.sidebar-header
+{
+    position: relative;
+    background-color: rgb(37, 36, 36);
+    padding: 10px 10px;
+    border-radius: 0px;
+    border-width: medium;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title-latest-post
+{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sidebar-header
+{
+    color: aliceblue;
+}
